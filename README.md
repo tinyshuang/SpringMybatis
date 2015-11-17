@@ -16,7 +16,8 @@ http://mybatis.github.io/mybatis-3/zh/index.html
 Mybatis-spring官方文档 : 
 http://mybatis.github.io/spring/zh/index.html
 
-Dao的分类 :
+Dao的分类 :  
+
 *⑴使用接口映射mapper的方式.*    
 
  方式 : 简单,易用..接口声明的方法就是mapper里面id的属性值..
